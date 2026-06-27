@@ -1,6 +1,6 @@
 # Hi! I'm Varad.
 
-17, from a small town in Sangli district, Maharashtra. Waiting on college admissions while building embedded systems projects on my desk.
+18, from a small town in Sangli district, Maharashtra. Waiting on college admissions while building embedded systems projects on my desk.
 
 ---
 
